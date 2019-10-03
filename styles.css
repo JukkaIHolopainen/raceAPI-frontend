@@ -1,4 +1,4 @@
-@font-face { font-family: Conthrax; src: url('/resources/font/conthrax-sb.ttf')}
+@font-face { font-family: Conthrax; src: url('resources/font/conthrax-sb.ttf')}
 
 body, html{
     font-family: Conthrax;
@@ -19,7 +19,7 @@ body, html{
 }
 
 body {
-  background: url('resources/img/logodarkredoutline.png') left top repeat, url('/resources/img/cf-background.png'); 
+  background: url('resources/img/logodarkredoutline.png') left top repeat, url('resources/img/cf-background.png');
 } * {box-sizing: border-box;}
 
 #main {
